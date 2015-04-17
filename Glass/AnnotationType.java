@@ -1,0 +1,4 @@
+enum ANNOTATION_TYPE{
+  DRAWING, 
+  POINTING
+}
